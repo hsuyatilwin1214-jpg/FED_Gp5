@@ -1,16 +1,16 @@
 body {
     text-align: center;
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    background-color: #f4a8e0;
     margin-top: 100px;
 }
 
 h1 {
-    color: navy;
+    color: rgb(235, 3, 142);
 }
 
 #timeDisplay {
     font-size: 50px;
     font-weight: bold;
-    color: darkblue;
+    color: rgb(104, 0, 49);
 }
