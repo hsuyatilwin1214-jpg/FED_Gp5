@@ -3,6 +3,7 @@ function updateTime() {
   const formatted = now.toLocaleTimeString(); 
   document.getElementById("timeDisplay").textContent = formatted;
 }
-setInterval(updateTime, 1000);
+setInterval(updateTime, 1000); // 1000 milliseconds -> 1second
+
 
 
