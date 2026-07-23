@@ -7,10 +7,28 @@ body {
 
 h1 {
     color: rgb(235, 3, 142);
+    border-bottom: 2px solid rgb(235, 3, 142);
+}
+
+h2 {
+    color: rgb(104, 0, 49);
+    margin-top: 50px;
+
+}
+
+h3 {
+    color: rgb(104, 0, 49);
+    margin-top: 30px;
 }
 
 #timeDisplay {
     font-size: 50px;
+    font-weight: bold;
+    color: rgb(104, 0, 49);
+}
+
+#demo {
+    font-size: 40px;
     font-weight: bold;
     color: rgb(104, 0, 49);
 }
